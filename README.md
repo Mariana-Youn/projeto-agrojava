@@ -1,4 +1,4 @@
-# Projeto Integrador - Agrojava
+# Projeto Integrador - AgroJava
 
 Atividade desenvolvida em Java para a disciplina de Lógica de Programação e Algoritmos.
 
